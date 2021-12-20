@@ -3,7 +3,7 @@
 ## Studied in
 
 > * 2017.03 ~ Pukyong National University, Department of System Management Engineering, Majoring in Industrial Engineering
-> * 2021.09 ~ National Information Society Agency, Big Data Intern
+> * 2021.07 ~ National Information Society Agency, Big Data Intern
 
 ## Awards
 
