@@ -12,6 +12,6 @@
 > * [github](https://github.com/worldpapa/joiss)
 > 🏆 대한원격탐사학회장상 수상
 
-> [2021 Dacon AI contest to predict the price of agriculture](https://dacon.io/competitions/official/235801/overview/description)
+> [2021 Dacon AI Contest to Predict the Price of Agriculture](https://dacon.io/competitions/official/235801/overview/description)
 > * [github](https://github.com/worldpapa/Nongsan)
 > 🏆 우수상 수상
