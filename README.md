@@ -1,8 +1,7 @@
 # 🌏 WorldKim
 
-### 📩 : sstptkdss1@icloud.com
-
-### 📍 : [Notion Portpolio](https://www.notion.so/Hello-World-Kim-85cedbf2d0f54cc199316a535777e234)
+📩 : sstptkdss1@icloud.com
+📍 : [Notion Portpolio](https://www.notion.so/Hello-World-Kim-85cedbf2d0f54cc199316a535777e234)
 
 
 ## 👨‍🎓 Studied in
