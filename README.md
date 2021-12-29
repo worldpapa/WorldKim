@@ -1,7 +1,7 @@
 # WorldKim
 
 
-[Portpolio](https://www.notion.so/Hello-World-Kim-85cedbf2d0f54cc199316a535777e234)
+👋 Notion [Portpolio](https://www.notion.so/Hello-World-Kim-85cedbf2d0f54cc199316a535777e234)
 
 
 ## Studied in
