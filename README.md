@@ -2,6 +2,8 @@
 
 ### [Notion Portpolio](https://aquatic-avocado-034.notion.site/Hello-World-Kim-85cedbf2d0f54cc199316a535777e234)
 
+### [ENG CV]()
+
 
 ## 👨‍🎓 Studied in
 
