@@ -21,6 +21,6 @@
 > * [github](https://github.com/worldpapa/Nongsan)
 > 우수상 수상
 
-> [2021 AIfactory EWP Power Generation Big Data Competition](http://aifactory.space/competition/detail/1906)
+<!-- > [2021 AIfactory EWP Power Generation Big Data Competition](http://aifactory.space/competition/detail/1906)
 > * [github](https://github.com/worldpapa/ewp_windpower)
-> 장려상 수상
+> 장려상 수상 -->
