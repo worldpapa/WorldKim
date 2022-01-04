@@ -7,7 +7,7 @@
 
 ## 👨‍🎓 Studied in
 
-> * 2017.03. ~ Pukyong National University, Department of System Management Engineering, Majoring in Technology Service Engineering 
+> * 2017.03. ~ Senior, Pukyong National University, Department of System Management Engineering, Majoring in Technology Service Engineering (GPA : 4.03/4.5)
 > * 2021.01. ~ 2021.02.15. SDSA, The Southampton Data Science Academy, Fundamentals of Data Science Course Achievement
 > * 2021.07. ~ National Information Society Agency, Busan Foundation For International Cooperation Big Data Intern
 
