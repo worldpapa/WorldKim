@@ -27,7 +27,7 @@
 > 우수상 수상
 
 
-### * Last update : @2021/01/05
+* Last update : @2021/01/05
 
 <!-- > [2021 AIfactory EWP Power Generation Big Data Competition](http://aifactory.space/competition/detail/1906)
 > * [github](https://github.com/worldpapa/ewp_windpower)
