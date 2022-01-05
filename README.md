@@ -1,4 +1,7 @@
-# 🌏 WorldKim printf("Hello world !\n");
+# 🌏 WorldKim 
+
+printf("Hello world !\n");
+
 
 ### [Notion Portpolio](https://aquatic-avocado-034.notion.site/Hello-World-Kim-85cedbf2d0f54cc199316a535777e234)
 
@@ -27,7 +30,7 @@
 > 우수상 수상
 
 
-#### Last update : @2021/01/05
+##### Last update : @2021/01/05
 
 <!-- > [2021 AIfactory EWP Power Generation Big Data Competition](http://aifactory.space/competition/detail/1906)
 > * [github](https://github.com/worldpapa/ewp_windpower)
