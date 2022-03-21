@@ -1,9 +1,7 @@
-# 
-``` Python3
-🌏 "Hello World!" Kim. 
-```
+# 🌏 "Hello World!" Kim. 
 
-``` C
+
+``` Python3
 print("Hello world!");
 ```
 
