@@ -33,6 +33,11 @@ print("Hello world!");
 > * [github](https://github.com/worldpapa/Nongsan)
 > 우수상 수상
 
+## 🏹 Certification
+
+>ADSP
+>SQLD
+>빅데이터분석기사
 
 ##### Last update : @2023/04/04
 
