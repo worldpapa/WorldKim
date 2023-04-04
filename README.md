@@ -34,7 +34,7 @@ print("Hello world!");
 > 우수상 수상
 
 
-##### Last update : @2022/01/05
+##### Last update : @2022/04/04
 
 <!-- > [2021 AIfactory EWP Power Generation Big Data Competition](http://aifactory.space/competition/detail/1906)
 > * [github](https://github.com/worldpapa/ewp_windpower)
