@@ -35,9 +35,9 @@ print("Hello world!");
 
 ## 🏹 Certification
 
->ADSP
->SQLD
->빅데이터분석기사
+> * ADSP
+> * SQLD
+> * 빅데이터분석기사
 
 ##### Last update : @2023/04/04
 
