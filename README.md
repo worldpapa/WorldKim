@@ -36,13 +36,13 @@ print("Hello world!");
 ## 🏹 Certification
 
 > * ADSP
-> * 2021.09.24
+> 2021.09.24
 > * SQLD
-> * 2022.12.02
+> 2022.12.02
 > * 빅데이터분석기사
-> * 2022.12.23
+> 2022.12.23
 
-##### Last update : @2023/04/04
+##### Last update : @2023/04/06
 
 <!-- > [2021 AIfactory EWP Power Generation Big Data Competition](http://aifactory.space/competition/detail/1906)
 > * [github](https://github.com/worldpapa/ewp_windpower)
