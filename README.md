@@ -33,6 +33,9 @@ print("Hello world!");
 > * [github](https://github.com/worldpapa/Nongsan)
 > 우수상 수상
 
+> [Korea's AI contest platform DACON 1st DACrew Supporters](https://dacon.io/more/notice/90)
+> 1기 서포터즈 최우수 1등 수료
+
 ## 🏹 Certification
 
 > * ADSP   
