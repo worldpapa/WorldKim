@@ -34,7 +34,7 @@ print("Hello world!");
 > 우수상 수상
 
 > [Korea's AI contest platform DACON 1st DACrew Supporters](https://dacon.io/more/notice/90)
-> * [github](https://github.com/worldpapa/Nongsan)
+> * [github](https://github.com/worldpapa/1stDACrew)
 >  최우수 1등 수료
 
 ## 🏹 Certification
