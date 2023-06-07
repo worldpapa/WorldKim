@@ -59,7 +59,7 @@ print("Hello world!");
 > (주)케이티 (주)한국경제신문   
 > 2023.04.21   
 
-##### Last update : @2023/04/06
+##### Last update : @2023/06/07
 
 <!-- > [2021 AIfactory EWP Power Generation Big Data Competition](http://aifactory.space/competition/detail/1906)
 > * [github](https://github.com/worldpapa/ewp_windpower)
