@@ -19,6 +19,7 @@ print("Hello world!");
 > * 2022.03.14 ~ 2022.08.03 DACON, Data Science Team Intern
 > * 2022.08.04 ~ 2022.11.30 DACON, Data Science Team Manager
 > * 2023.01.31 ~ 2023.07.18 KT AIVLE School, Corporate Practical AI/DX Talent Development Program
+> 
 ## 🏆 Awards
 
 > [SDSA The Southampton Data Science Academy, Fundamentals of Data Science](https://cms.pknu.ac.kr/pknusme/view.do?no=13640&idx=483693&view=view&pageIndex=1&sv=&sw=)
