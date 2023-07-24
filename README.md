@@ -39,7 +39,7 @@ print("Hello world!");
 >  최우수 수료 (1등)
 >
 > [KT AIVLE SCHOOL 3rd BIG PROJECT](https://aivle.kt.co.kr/home/main/indexMain)
-> * [github]([https://github.com/KT-AIVLE-3rd-AI-Team10)
+> * [github](https://github.com/KT-AIVLE-3rd-AI-Team10)
 > 우수상 수상
 
 ## 🏹 Certification
