@@ -38,7 +38,7 @@ print("Hello world!");
 > * [github](https://github.com/worldpapa/1stDACrew)
 >  최우수 수료 (1등)
 >
-> [KT AIVLE SCHOOL 3rd BIG PROJECT](https://aivle.kt.co.kr/home/main/indexMain)
+> [KT AIVLE SCHOOL 3rd BIG PROJECT](https://github.com/KT-AIVLE-3rd-AI-Team10/funibuni-main)
 > * [github](https://github.com/KT-AIVLE-3rd-AI-Team10)
 > 우수상 수상
 
