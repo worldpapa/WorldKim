@@ -12,7 +12,6 @@ print("Hello world!");
 
 ## 👨‍🎓 Studied in
 
-> * 2017.03 ~ 2023.08 Senior, Pukyong National University, Department of System Management Engineering, Majoring in Technology Data Engineering (GPA : 3.92/4.5 (93.2/100) )
 > * 2021.01.05 ~ 2021.02.15 SDSA, The Southampton Data Science Academy, Fundamentals of Data Science Course Achievement (Saltlux partners)
 > * 2021.07.05 ~ 2021.08.27 Big Data Intern, Public Big Data Youth Internship Professional Training Course
 > * 2021.09.06 ~ 2022.02.24 National Information Society Agency, Busan Foundation For International Cooperation Big Data Intern
