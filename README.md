@@ -5,11 +5,6 @@
 print("Hello world!");
 ```
 
-### [Notion Portpolio](https://aquatic-avocado-034.notion.site/Hello-World-Kim-85cedbf2d0f54cc199316a535777e234)
-
-### [English CV](https://github.com/worldpapa/engCV)
-
-
 ## 👨‍🎓 Studied in
 
 > * 2021.01.05 ~ 2021.02.15 SDSA, The Southampton Data Science Academy, Fundamentals of Data Science Course Achievement (Saltlux partners)
